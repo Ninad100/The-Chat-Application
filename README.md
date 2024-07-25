@@ -1,5 +1,16 @@
 # The-Chat-Application
+This is chat application developed based on NodeJs, MongoDB and socket programming. The different users from different part of world can connect with each other and chat.
 
+## Technology used
+
+1. NodeJs
+2. MongoDB
+3. ExpressJs
+4. Socket Programming
+5. HTML
+6. CSS
+7. Vanila JavaScript
+8. EJS
 
 
 ## Working Screenshots
@@ -14,7 +25,8 @@
 ![image](https://github.com/user-attachments/assets/9339ea76-419c-4e35-861b-2e0e7ee0eb20)
 
 **Once any user disconnects same will be removed from connected list of users**
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/86b56901-6f75-4262-8c87-0e39c29b3895)
+
 
 ## Setup
 
